@@ -4,6 +4,8 @@ title: 打赏作者
 permalink: /donate/
 ---
 
+
+
 <style type="text/css">
 img {
     max-width: 100%;
@@ -22,7 +24,9 @@ p {
 }
 </style>
 
-
+<style type="text/css">
+ <a href="{{ base }}/donate.md">donate</a>>
+</style>
   
   
 
