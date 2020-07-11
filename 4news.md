@@ -1,9 +1,8 @@
 ---
 layout: page
-title: News
+title: news
+comments: true
 permalink: /news/
-icon: bookmark
-type: page
 ---
 
 * content
@@ -20,3 +19,11 @@ type: page
 ## Comments
 
 {% include comments.html %}
+
+---
+layout: page
+title: News
+permalink: /news/
+icon: bookmark
+type: page
+---
