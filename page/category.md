@@ -3,7 +3,7 @@ layout: page
 title: 分类
 permalink: /category/
 ---
-
+<a href="{{ base }}/category.md">category</a>>
 <div class="category">
   <h1>文章分类</h1>
 
