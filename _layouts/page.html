@@ -3,3 +3,10 @@ layout: base
 ---
 
 {{ content }}
+
+<head>
+ ...
+ {% include base.html %}
+ <link href="{{ base }}/assets/css/style.css" rel='stylesheet'>
+ ...
+</head>
